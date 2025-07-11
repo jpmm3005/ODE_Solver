@@ -1,10 +1,3 @@
-# personal-website-template
+<h1 style="text-align: center;">JP Maestas</h1>
 
-A simple one page template suited for personal and portfolio pages. 
-
-## Usage
-
-- Fork this repository
-- Rename it to `<your-github-username>.github.io`
-- Edit `index.html` to add your personal details
-- Goto `http://<your-github-username.github.io` and website will be visible there
+Hello! My name is JP Maestas, and I am a third year Applied Mathematics and Computational Statistics Student at UC Davis.
